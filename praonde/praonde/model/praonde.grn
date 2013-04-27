@@ -1,0 +1,46 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=praonde/src<Dao{Veiculo.java[Veiculo"/>
+      <height="369"/>
+      <width="213"/>
+      <x="10"/>
+      <y="444"/>
+   </type>
+   <type>
+      <name="=praonde/src<Dao{CaronaRecebida.java[CaronaRecebida"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="457"/>
+      <y="65"/>
+   </type>
+   <type>
+      <name="=praonde/src<Dao{Preferencia.java[Preferencia"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="6"/>
+      <y="62"/>
+   </type>
+   <type>
+      <name="=praonde/src<Dao{CaronaOferecida.java[CaronaOferecida"/>
+      <height="801"/>
+      <width="275"/>
+      <x="457"/>
+      <y="278"/>
+   </type>
+   <type>
+      <name="=praonde/src<Dao{Usuario.java[Usuario"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="233"/>
+      <y="66"/>
+   </type>
+   <type>
+      <name="=praonde/src<Dao{PreferenciaUsuario.java[PreferenciaUsuario"/>
+      <height="219"/>
+      <width="217"/>
+      <x="8"/>
+      <y="219"/>
+   </type>
+</uml>
+
